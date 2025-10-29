@@ -1,0 +1,16 @@
+   
+      #pertama{
+       color: red;
+       text-align: center;
+      }
+      .kedua{
+       color:blue;
+      }
+
+      .content{
+       border: 1px solid black;
+       border-radius: 10px;
+       background-image:url(503a5e554d4397d2341e542519dba40d.jpg);
+       background-size: cover;
+       height: 500px;
+      }
